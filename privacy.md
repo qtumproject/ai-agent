@@ -2,7 +2,7 @@
 
 **Last Updated:**
 
-**Effective Date:** Jul 03, 2025
+**Effective Date:** Jul 15, 2025
 
 This Privacy Policy describes our practices with respect to Personal Data that we collect from or about you when you use or access our Services (collectively, “**Services**”).  Your use of our Services is subject to this Privacy Policy as well as our Terms of Service.
 
@@ -16,7 +16,7 @@ We collect personal data relating to you (“**Personal Data**”) through the f
 
 1. Account Information: When you create an account with us, we will collect information associated with your profile, such as your full name, contact details, login credentials, birthdate, payment methods, and transaction records (collectively, “**Account Information**”).
 2. Communication Information: If you contact us via email or social media platforms, we may collect Personal Data like your name, contact information, and the contents of the messages you send (“**Communication Information**”).
-3. User Content: We collect Personal Data that you provide in the input to our Services (“**Content**”), including your prompts and other content you upload, such as files, images, and audio, depending on the features you use.
+3. User Content: We collect Personal Data that you provide in the input to our Services (*“**Content**”*), including your prompts and other content you upload, such as files, images, and audio, depending on the features you use. While your Content is transmitted to our servers for processing, **we do not store this Content after the processing is complete**. Your Content is used solely to provide the requested Services and is not retained in our systems unless explicitly required for legal or security purposes (e.g., to investigate misuse or comply with legal obligations).
 4. Other Information You Provide: We collect other information that you may provide to us, such as the information you provided during our events, surveys, or identity/age verification processes (collectively, “**Other Information You Provide**”).
 
 **Personal Data We Receive from Your Use of our Services:** When accessing or using our Services, we receive the following information about your visit, use, or interactions (“**Technical Information**”):
