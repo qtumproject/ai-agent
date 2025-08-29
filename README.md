@@ -10,5 +10,5 @@ Ally supports local deployment and can be flexibly adapted to different platform
 ## Installation
 1. Download and install Ally (https://github.com/qtumproject/ai-agent/releases/latest)
 2. For macOS users, open the Terminal and exec the following command:
- `sudo xattr -r -d com.apple.quarantine /Applications/QtumChat.app`
+ `sudo xattr -r -d com.apple.quarantine /Applications/Ally.app`
 3. Start exploring Ally
